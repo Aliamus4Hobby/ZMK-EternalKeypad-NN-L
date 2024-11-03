@@ -22,11 +22,11 @@
 
         default_lefty {
             bindings = <
-         &kp BACKSPACE    &kp EQUAL           &kp MINUS          &kp NUMBER_0   &kp NUMBER_9  &kp N8  &kp N7
-         &kp BACKSLASH    &kp RIGHT_BRACE     &kp LEFT_BRACE     &kp P          &kp O         &kp I   &kp U
-&kp F22  &kp ENTER        &kp TILDE           &kp DOUBLE_QUOTES  &kp COLON      &kp L         &kp K   &kp J
-&kp F21  &kp RIGHT_SHIFT  &kp QUESTION        &kp GREATER_THAN   &kp LESS_THAN  &kp NUBS      &kp M   &kp N
-&kp F20  &kp RCTRL        &kp K_CONTEXT_MENU  &kp RIGHT_ALT                     &kp SPACE             &mo 1
+         &kp BACKSPACE    &kp EQUAL           &kp MINUS          &kp NUMBER_0  &kp NUMBER_9      &kp N8         &kp N7
+         &kp BACKSLASH    &kp RIGHT_BRACE     &kp LEFT_BRACE     &kp P         &kp O             &kp I          &kp U
+&kp F22  &kp ENTER        &kp TILDE           &kp DOUBLE_QUOTES  &kp COLON     &kp L             &kp K          &kp J
+&kp F21  &kp RIGHT_SHIFT  &kp QUESTION        &kp PERIOD         &trans        &kp GREATER_THAN  &kp LESS_THAN  &kp M
+&kp F20  &kp RCTRL        &kp K_CONTEXT_MENU  &kp RIGHT_ALT                    &kp SPACE                        &mo 1
             >;
         };
 
